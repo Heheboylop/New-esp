@@ -1,11 +1,3 @@
---[[
-  Universal ESP + Hitbox Menu
-  - Menu hình tròn ảnh con rồng bật/tắt
-  - Chia 5 team, hiện máu, team, tự động cập nhật
-  - Đường kẻ, hitbox, menu bật/tắt từng tính năng
-  - Tương thích mọi map/game
-]]--
-
 local Teams = {"Red", "Blue", "Green", "Yellow", "Purple"} -- Chỉnh theo tên team game của bạn nếu khác
 local DRAGON_IMG = "rbxassetid://13762382490" -- ID ảnh con rồng, có thể thay bằng ảnh khác
 
